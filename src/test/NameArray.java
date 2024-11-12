@@ -7,7 +7,7 @@ public class NameArray {
 
 	public static void main(String[] args) {
 		ArrayList<String> names = new ArrayList<>();
-		names.add("伊藤");
+		names.add("桜井");
 		names.add("田原");
 		names.add("中川");
 		names.add("鈴木");
